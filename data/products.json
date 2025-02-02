@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Kraft Cheese",
+    "description": "Popular American cheese brand.",
+    "image": "images/kraft.jpg",
+    "alternative": {
+      "name": "Saputo Cheese",
+      "description": "A quality Canadian cheese brand supporting local dairy farmers.",
+      "image": "images/saputo.jpg"
+    }
+  },
+  {
+    "name": "Philadelphia Cream Cheese",
+    "description": "A well-known American cream cheese brand.",
+    "image": "images/philadelphia.jpg",
+    "alternative": {
+      "name": "Lactantia Cream Cheese",
+      "description": "A creamy and delicious Canadian alternative.",
+      "image": "images/lactantia.jpg"
+    }
+  },
+  {
+    "name": "Yoplait Yogurt",
+    "description": "A popular American yogurt brand.",
+    "image": "images/yoplait.jpg",
+    "alternative": {
+      "name": "Astro Yogurt",
+      "description": "A Canadian-made yogurt with a variety of flavors.",
+      "image": "images/astro.jpg"
+    }
+  },
+  {
+    "name": "Land O’Lakes Butter",
+    "description": "A widely used American butter brand.",
+    "image": "images/landolakes.jpg",
+    "alternative": {
+      "name": "Gay Lea Butter",
+      "description": "A Canadian butter brand known for its rich flavor.",
+      "image": "images/gaylea.jpg"
+    }
+  },
+  {
+    "name": "Coca-Cola",
+    "description": "A globally recognized American soft drink.",
+    "image": "images/cocacola.jpg",
+    "alternative": {
+      "name": "Canada Dry",
+      "description": "A refreshing Canadian ginger ale and soda brand.",
+      "image": "images/canadadry.jpg"
+    }
+  },
+  {
+    "name": "Tropicana Juice",
+    "description": "A popular American juice brand.",
+    "image": "images/tropicana.jpg",
+    "alternative": {
+      "name": "SunRype Juice",
+      "description": "A Canadian juice brand made from locally sourced fruits.",
+      "image": "images/sunrype.jpg"
+    }
+  },
+  {
+    "name": "Gatorade",
+    "description": "An American sports drink for hydration.",
+    "image": "images/gatorade.jpg",
+    "alternative": {
+      "name": "BioSteel",
+      "description": "A Canadian sports drink with natural ingredients.",
+      "image": "images/biosteel.jpg"
+    }
+  },
+  {
+    "name": "Starbucks Coffee",
+    "description": "A globally recognized American coffee chain.",
+    "image": "images/starbucks.jpg",
+    "alternative": {
+      "name": "Kicking Horse Coffee",
+      "description": "A Canadian coffee brand known for its organic and fair-trade beans.",
+      "image": "images/kickinghorse.jpg"
+    }
+  },
+  {
+    "name": "Lay’s Chips",
+    "description": "A popular American potato chip brand.",
+    "image": "images/lays.jpg",
+    "alternative": {
+      "name": "Old Dutch Chips",
+      "description": "A Canadian chip brand with a variety of flavors.",
+      "image": "images/olddutch.jpg"
+    }
+  },
+  {
+    "name": "Campbell’s Soup",
+    "description": "A well-known American soup brand.",
+    "image": "images/campbells.jpg",
+    "alternative": {
+      "name": "Habitant Soup",
+      "description": "A Canadian soup brand with traditional recipes.",
+      "image": "images/habitant.jpg"
+    }
+  }
+]
