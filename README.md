@@ -1,13 +1,8 @@
 # Awesome Alternatives
 
-<<<<<<< HEAD
 Welcome to the Awesome Alternatives project! This repository aims to help users discover non-American product choices, offering broader consumer options and supporting diverse markets.  
 *Disclaimer: This website is not politically affiliated but is meant to serve consumers in finding cheaper local alternatives.*
-=======
-Welcome to the Awesome Alternatives project! This repository aims to help users discover non-American product choices, 
-offering broader consumer options and supporting diverse markets. 
-Disclaimer: This website is not politically affiliated but meant to serve the consumers find cheaper local alternatives
->>>>>>> f64c36b0269d82d855f61dc1bb0f828dfa168cbc
+
 
 ## Project Overview
 - **Goal**: Provide a structured way to compare American products with their Canadian or international counterparts.
