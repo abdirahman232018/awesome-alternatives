@@ -65,11 +65,29 @@ main {
 .navbar a:hover {
   color: #ccc;
 }
+
 .product-image {
   width: 100%;
-  height: auto;
+  height: 200px; /* Fixed height */
+  object-fit: cover; /* image covers the container */
   margin-bottom: 10px;
   border-radius: 3px;
-  object-fit: cover;
 }
 
+#product-form textarea {
+  width: 100%;
+  padding: 0.5em;
+  font-size: 1rem;
+  box-sizing: border-box;
+  resize: vertical;
+  margin-bottom: 1em;
+}
+
+#product-form input[type="text"],
+#product-form select {
+  width: 100%;
+  padding: 0.5em;
+  font-size: 1rem;
+  box-sizing: border-box;
+  margin-bottom: 1em;
+}

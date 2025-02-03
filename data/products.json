@@ -2,101 +2,151 @@
   {
     "name": "Kraft Cheese",
     "description": "Popular American cheese brand.",
-    "image": "images/kraft.jpg",
+    "urls": {
+      "raw": "https://images.unsplash.com/5/unsplash-kitsune-4.jpg?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bc01c83c3da0425e9baa6c7a9204af81",
+      "full": "https://images.unsplash.com/5/unsplash-kitsune-4.jpg?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjEyMDd9&s=ce40ce8b8ba365e5e6d06401e5485390",
+      "regular": "https://images.unsplash.com/5/unsplash-kitsune-4.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9&s=fb86e2e09fceac9b363af536b93a1275",
+      "small": "https://images.unsplash.com/5/unsplash-kitsune-4.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9&s=dd060fe209b4a56733a1dcc9b5aea53a",
+      "thumb": "https://images.unsplash.com/5/unsplash-kitsune-4.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9&s=50827fd8476bfdffe6e04bc9ae0b8c02"
+    },
     "alternative": {
       "name": "Saputo Cheese",
       "description": "A quality Canadian cheese brand supporting local dairy farmers.",
-      "image": "images/saputo.jpg"
+      "urls": {
+        "raw": "https://images.unsplash.com/5/unsplash-kitsune-4.jpg?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bc01c83c3da0425e9baa6c7a9204af81",
+        "full": "https://images.unsplash.com/5/unsplash-kitsune-4.jpg?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjEyMDd9&s=ce40ce8b8ba365e5e6d06401e5485390",
+        "regular": "https://images.unsplash.com/5/unsplash-kitsune-4.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9&s=fb86e2e09fceac9b363af536b93a1275",
+        "small": "https://images.unsplash.com/5/unsplash-kitsune-4.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9&s=dd060fe209b4a56733a1dcc9b5aea53a",
+        "thumb": "https://images.unsplash.com/5/unsplash-kitsune-4.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9&s=50827fd8476bfdffe6e04bc9ae0b8c02"
+      }
     }
   },
   {
     "name": "Philadelphia Cream Cheese",
     "description": "A well-known American cream cheese brand.",
-    "image": "images/philadelphia.jpg",
+    "urls": {
+      "regular": "https://images.unsplash.com/photo-1542831371-d531d36971e6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+    },
     "alternative": {
       "name": "Lactantia Cream Cheese",
       "description": "A creamy and delicious Canadian alternative.",
-      "image": "images/lactantia.jpg"
+      "urls": {
+        "regular": "https://images.unsplash.com/photo-1574169208507-8437617483b2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+      }
     }
   },
   {
     "name": "Yoplait Yogurt",
     "description": "A popular American yogurt brand.",
-    "image": "images/yoplait.jpg",
+    "urls": {
+      "regular": "https://images.unsplash.com/photo-1552332386-f8dd00dc0b10?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+    },
     "alternative": {
       "name": "Astro Yogurt",
       "description": "A Canadian-made yogurt with a variety of flavors.",
-      "image": "images/astro.jpg"
+      "urls": {
+        "regular": "https://images.unsplash.com/photo-1589308078054-68a90b2b3a1b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+      }
     }
   },
   {
     "name": "Land O’Lakes Butter",
     "description": "A widely used American butter brand.",
-    "image": "images/landolakes.jpg",
+    "urls": {
+      "regular": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+    },
     "alternative": {
       "name": "Gay Lea Butter",
       "description": "A Canadian butter brand known for its rich flavor.",
-      "image": "images/gaylea.jpg"
+      "urls": {
+        "regular": "https://images.unsplash.com/photo-1563003361-5efb9d0b59d5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+      }
     }
   },
   {
     "name": "Coca-Cola",
     "description": "A globally recognized American soft drink.",
-    "image": "images/cocacola.jpg",
+    "urls": {
+      "regular": "https://images.unsplash.com/photo-1571071611902-8b8a8e57c710?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+    },
     "alternative": {
       "name": "Canada Dry",
       "description": "A refreshing Canadian ginger ale and soda brand.",
-      "image": "images/canadadry.jpg"
+      "urls": {
+        "regular": "https://images.unsplash.com/photo-1574329781038-fb0a4f2c1562?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+      }
     }
   },
   {
     "name": "Tropicana Juice",
     "description": "A popular American juice brand.",
-    "image": "images/tropicana.jpg",
+    "urls": {
+      "regular": "https://images.unsplash.com/photo-1572448862526-7a5e0e6a9e6e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+    },
     "alternative": {
       "name": "SunRype Juice",
       "description": "A Canadian juice brand made from locally sourced fruits.",
-      "image": "images/sunrype.jpg"
+      "urls": {
+        "regular": "https://images.unsplash.com/photo-1562440499-f4f60a3cda38?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+      }
     }
   },
   {
     "name": "Gatorade",
     "description": "An American sports drink for hydration.",
-    "image": "images/gatorade.jpg",
+    "urls": {
+      "regular": "https://images.unsplash.com/photo-1573561572879-0e88a8d0a169?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+    },
     "alternative": {
       "name": "BioSteel",
       "description": "A Canadian sports drink with natural ingredients.",
-      "image": "images/biosteel.jpg"
+      "urls": {
+        "regular": "https://images.unsplash.com/photo-1598398762845-92e95fc7de73?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+      }
     }
   },
   {
     "name": "Starbucks Coffee",
     "description": "A globally recognized American coffee chain.",
-    "image": "images/starbucks.jpg",
+    "urls": {
+      "regular": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+    },
     "alternative": {
       "name": "Kicking Horse Coffee",
-      "description": "A Canadian coffee brand known for its organic and fair-trade beans.",
-      "image": "images/kickinghorse.jpg"
+      "description": "A Canadian coffee brand known for its organic and fair‐trade beans.",
+      "urls": {
+        "regular": "https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+      }
     }
   },
   {
     "name": "Lay’s Chips",
     "description": "A popular American potato chip brand.",
-    "image": "images/lays.jpg",
+    "urls": {
+      "regular": "https://images.unsplash.com/photo-1586201375761-83865001e52e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+    },
     "alternative": {
       "name": "Old Dutch Chips",
       "description": "A Canadian chip brand with a variety of flavors.",
-      "image": "images/olddutch.jpg"
+      "urls": {
+        "regular": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+      }
     }
   },
   {
     "name": "Campbell’s Soup",
     "description": "A well-known American soup brand.",
-    "image": "images/campbells.jpg",
+    "urls": {
+      "regular": "https://images.unsplash.com/photo-1584270354949-4e4d8a3ac4b9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+    },
     "alternative": {
       "name": "Habitant Soup",
       "description": "A Canadian soup brand with traditional recipes.",
-      "image": "images/habitant.jpg"
+      "urls": {
+        "regular": "https://images.unsplash.com/photo-1576502200916-90e3f883ebd5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080"
+      }
     }
   }
 ]
+
+

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contribute - Awesome Alternatives</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="contribute.html">Contribute</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- User Contributions Form -->
+    <form id="product-form">
+      <h2>Add a Product</h2>
+      
+      <input type="text" name="name" placeholder="Product Name" required />
+
+      <!-- Dropdown for Category -->
+      <label for="category">Category:</label>
+      <select name="category" id="category" required>
+        <option value="">Select a category</option>
+        <option value="dairy-products">Dairy Products</option>
+        <option value="soft-drinks-beverages">Soft Drinks & Beverages</option>
+        <option value="packaged-snack-foods">Packaged & Snack Foods</option>
+        <option value="meat-processed-foods">Meat & Processed Foods</option>
+        <option value="condiments-sauces">Condiments & Sauces</option>
+        <option value="baking-products">Baking Products</option>
+        <option value="frozen-foods">Frozen Foods</option>
+        <option value="coffee-tea">Coffee & Tea</option>
+        <option value="personal-care-products">Personal Care Products</option>
+      </select>
+
+      <!-- Product Description -->
+      <textarea name="description" placeholder="Product Description" required rows="6"></textarea>
+      
+      <input type="text" name="image" placeholder="Image URL (optional)" />
+
+      <!-- Alternative Product Section -->
+      <h3>Alternative Product</h3>
+      <input type="text" name="alternativeName" placeholder="Alternative Name" required />
+      <textarea name="alternativeDescription" placeholder="Alternative Description" required rows="6"></textarea>
+      <input type="text" name="alternativeImage" placeholder="Alternative Image URL (optional)" />
+
+      <button type="submit">Submit</button>
+    </form>
+  </main>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
+
+
+
